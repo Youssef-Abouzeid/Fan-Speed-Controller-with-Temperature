@@ -47,4 +47,3 @@ This repository implements a temperature-controlled fan system using an ATmega32
 4. Observe the temperature and fan state displayed on the LCD.
 5. The DC-Motor speed adjusts dynamically based on the temperature thresholds.
 
-Feel free to refer to the provided documentation and source code for a detailed understanding of the implementation and hardware connections.
